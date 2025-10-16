@@ -16,7 +16,9 @@ Many thanks for the folks at [Spelunky.fyi] for hosting and creating the
 spritesheet converter tool.
 
 Also to [duivelsgebroed] for his [player character spritesheets] mod which
-helped understand how the spritesheets work.
+helped me understand how the spritesheets work.
+
+And finally to [Tzomby] for his work on the [van horsing spritesheet] mod which helped to create the ghost animations.
 
 All code is under [MIT License]. This mod is a non-commercial fan project,
 all original assets belong to [Mossmouth].
@@ -26,5 +28,7 @@ all original assets belong to [Mossmouth].
 [Spelunky.fyi]: https://spelunky.fyi
 [duivelsgebroed]: https://spelunky.fyi/profile/duivelsgebroed/
 [player character spritesheets]: https://spelunky.fyi/mods/m/player-character-tilesheets-with-grid/
+[Tzomby]: https://spelunky.fyi/profile/Tzomby/
+[van horsing spritesheet]: https://spelunky.fyi/mods/m/van-horsing-sprite-sheet-all-animations/
 [MIT License]: http://www.opensource.org/licenses/MIT
 [Mossmouth]: https://www.mossmouth.com

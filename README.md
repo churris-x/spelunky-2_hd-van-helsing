@@ -1,5 +1,7 @@
 # HD Van Helsing
 
+![](/hd-van-helsing-cover.png)
+
 Spritesheet mod for Spelunky 2 to play as the original HD 
 character Van Helsing / Van Horsing
 

@@ -1,0 +1,25 @@
+name: release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+    workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Github release
+        run: |
+          NOTES=$(git log -1 --format='## Changes:%n%b')
+          gh release create "${{ github.ref_name }}" --notes "$NOTES" ./hd-van-helsing.png

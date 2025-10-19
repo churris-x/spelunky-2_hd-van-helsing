@@ -11,6 +11,15 @@ install mods in general.
 
 Download the mod through either the releases or the [modpage].
 
+## Todo
+- [ ] Upgrade this to a full character replacement
+    - [ ] Use `char_black` to replace Roffy
+    - [ ] Add corresponding `journal_stickers.png`
+    - [ ] Add corresponding `journal_entry_people.png`
+- [ ] Add poisoned state
+- [ ] Use chain instead of whip?
+- [ ] Convert pixelmator file to photoshop for ease of recovery
+
 ## License & Acknowledgements
 Many thanks for the folks at [Spelunky.fyi] for hosting and creating the 
 spritesheet converter tool.

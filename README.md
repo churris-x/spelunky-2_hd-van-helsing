@@ -13,6 +13,7 @@ If using playlunky, install with the code `hd-van-helsing`
 
 ## Todo
 - [ ] Add poisoned state
+- [ ] Add more lines / interactions in `strings00_mod.str`
 
 ## License & Acknowledgements
 Many thanks for the folks at [Spelunky.fyi] for hosting and creating the 

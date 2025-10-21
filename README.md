@@ -3,17 +3,17 @@
 ![](/hd-van-helsing-cover.png)
 
 Spritesheet mod for Spelunky 2 to play as the original HD 
-character Van Helsing / Van Horsing
+character Van Helsing / Van Horsing. By default this replaces Roffy as `char_black`.
 
 ## Install
 See this [modding overview](https://spelunky.fyi/mods/2/overview/) for how to
 install mods in general.
 
-Download the mod through either the releases or the [modpage].
+If using playlunky install with the code `hd-van-helsing`
 
 ## Todo
 - [ ] Upgrade this to a full character replacement
-    - [ ] Use `char_black` to replace Roffy
+    - [x] Use `char_black` to replace Roffy
     - [ ] Add corresponding `journal_stickers.png`
     - [ ] Add corresponding `journal_entry_people.png`
 - [ ] Add poisoned state

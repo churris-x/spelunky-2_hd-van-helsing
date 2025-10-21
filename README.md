@@ -9,16 +9,10 @@ character Van Helsing / Van Horsing. By default this replaces Roffy as `char_bla
 See this [modding overview](https://spelunky.fyi/mods/2/overview/) for how to
 install mods in general.
 
-If using playlunky install with the code `hd-van-helsing`
+If using playlunky, install with the code `hd-van-helsing`
 
 ## Todo
-- [x] Upgrade this to a full character replacement
-    - [x] Use `char_black` to replace Roffy
-    - [x] Add corresponding `journal_stickers.png`
-    - [x] Add corresponding `journal_entry_people.png`
-    - [x] Add `strings00_mod.str` to rename character
 - [ ] Add poisoned state
-- [x] Convert pixelmator file to photoshop for ease of recovery
 
 ## License & Acknowledgements
 Many thanks for the folks at [Spelunky.fyi] for hosting and creating the 

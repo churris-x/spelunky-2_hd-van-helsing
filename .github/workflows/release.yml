@@ -19,7 +19,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Create zip
+        run: git archive @ --format zip > hd-van-helsing.zip
       - name: Github release
         run: |
           NOTES=$(git log -1 --format='## Changes:%n%b')
-          gh release create "${{ github.ref_name }}" --notes "$NOTES" ./hd-van-helsing.png
+          gh release create "${{ github.ref_name }}" --notes "$NOTES" ./hd-van-helsing.zip

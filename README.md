@@ -14,7 +14,7 @@ If using playlunky install with the code `hd-van-helsing`
 ## Todo
 - [ ] Upgrade this to a full character replacement
     - [x] Use `char_black` to replace Roffy
-    - [ ] Add corresponding `journal_stickers.png`
+    - [x] Add corresponding `journal_stickers.png`
     - [x] Add corresponding `journal_entry_people.png`
     - [ ] Add `strings00_mod.str` to rename character
 - [ ] Add poisoned state

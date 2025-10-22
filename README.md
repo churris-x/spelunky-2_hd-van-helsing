@@ -14,17 +14,19 @@ If using playlunky, install with the code `hd-van-helsing`
 ## Todo
 - [ ] Add poisoned state
 - [ ] Add more lines / interactions in `strings00_mod.str`
+- [ ] Change to a `char_full.png` type file
 - [x] Add `mod.json` file
-- [ ] Add `char_black.json` file
+- [x] Add `char_black.json` file
 
 ## License & Acknowledgements
 Many thanks for the folks at [Spelunky.fyi] for hosting and creating the 
 spritesheet converter tool.
 
-Also to [duivelsgebroed] for his [player character spritesheets] mod which
-helped me understand how the spritesheets work.
+Also to [duivelsgebroed] for their [player character spritesheets] mod and
+[Malacath] for their [full character] mod which helped me understand how the
+spritesheets work.
 
-And finally to [Tzomby] for his work on the [van horsing spritesheet] mod which helped to create the ghost animations.
+And finally to [Tzomby] for their work on the [van horsing spritesheet] mod which helped to create the ghost animations.
 
 All code is under [MIT License]. This mod is a non-commercial fan project,
 all original assets belong to [Mossmouth].
@@ -34,6 +36,8 @@ all original assets belong to [Mossmouth].
 [Spelunky.fyi]: https://spelunky.fyi
 [duivelsgebroed]: https://spelunky.fyi/profile/duivelsgebroed/
 [player character spritesheets]: https://spelunky.fyi/mods/m/player-character-tilesheets-with-grid/
+[Malacath]: https://spelunky.fyi/profile/Malacath/
+[full character]: https://spelunky.fyi/mods/m/sample-mod-the-full-character-mod-experience/
 [Tzomby]: https://spelunky.fyi/profile/Tzomby/
 [van horsing spritesheet]: https://spelunky.fyi/mods/m/van-horsing-sprite-sheet-all-animations/
 [MIT License]: http://www.opensource.org/licenses/MIT

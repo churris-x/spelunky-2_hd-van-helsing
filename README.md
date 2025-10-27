@@ -13,8 +13,8 @@ If using playlunky, install with the code `hd-van-helsing`
 
 ## Todo
 - [ ] Add poisoned state
-- [ ] Fix last phrase on journal
 - [ ] Improve pixel sprite
+- [x] Fix last phrase on journal
 - [x] Add banner image
 
 ## License & Acknowledgements

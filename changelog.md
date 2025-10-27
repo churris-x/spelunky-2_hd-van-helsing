@@ -3,7 +3,7 @@
 ## v0.3.0
 - Fixed pixel icon not showing on menu
 - Added more lines / interactions in `strings00_mod.str`
-- Changeed to a `char_full.png` type file
+- Changed to a `char_full.png` type file
 - Added `mod.json` file
 - Added `char_black.json` file
 

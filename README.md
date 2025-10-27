@@ -13,9 +13,9 @@ If using playlunky, install with the code `hd-van-helsing`
 
 ## Todo
 - [ ] Add poisoned state
-- [ ] Add banner image
 - [ ] Fix last phrase on journal
 - [ ] Improve pixel sprite
+- [x] Add banner image
 
 ## License & Acknowledgements
 Many thanks for the folks at [Spelunky.fyi] for hosting and creating the 

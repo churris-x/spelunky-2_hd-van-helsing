@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.3.1
+- Fix heart not being correct color
+
 ## v0.3.0
 - Fixed pixel icon not showing on menu
 - Added more lines / interactions in `strings00_mod.str`

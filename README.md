@@ -13,7 +13,6 @@ If using playlunky, install with the code `hd-van-helsing`
 
 ## Todo
 - [ ] Add poisoned state
-- [x] Fix heart not being correct color
 - [ ] Add banner image
 - [ ] Fix last phrase on journal
 

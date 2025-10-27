@@ -3,5 +3,4 @@
 .gitattributes export-ignore
 .gitignore export-ignore
 references/ export-ignore
-hd-van-helsing.pxd export-ignore
-hd-van-helsing.psd export-ignore
+design/ export-ignore

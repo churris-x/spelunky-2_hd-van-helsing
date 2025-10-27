@@ -13,7 +13,8 @@ If using playlunky, install with the code `hd-van-helsing`
 
 ## Todo
 - [ ] Add poisoned state
-- [ ] Add more lines / interactions in `strings00_mod.str`
+- [ ] Add banner image
+- [x] Add more lines / interactions in `strings00_mod.str`
 - [x] Change to a `char_full.png` type file
 - [x] Add `mod.json` file
 - [x] Add `char_black.json` file

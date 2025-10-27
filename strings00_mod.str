@@ -4,3 +4,23 @@
 0x1e3605c7: Van Helsing
 0x63335ed2: A hunter with a bloody feud
 ########################################
+#### Van basic dialogue
+########################################
+0xa86bc28e: Dead, but not dead. It stalks us for some dread purpose I do not yet comprehend
+0xf4548410: I will have that infernal castle torn down stone by stone!
+0x855a909b: I prefer to remain, and protect those whom he would destroy...
+########################################
+#### Van to others
+########################################
+0x879b7935: Do you prefer Liz or Elizabeth? I keep forgetting...
+0x090f1eca: Colin, do you not think there are things in this Universe that you cannot understand and which are true?
+0x61001e2f: Yet, we may still find the end of these caves. But, not on an empty stomach!
+0xcdad9085: I want you to bring me, before nightfall, a set of crossbow and arrow
+########################################
+#### Coco to Van
+########################################
+0xa29c65ee: Van! it's been too long since we had a chat, let's catch up some time
+########################################
+#### Margaret to Van
+########################################
+0xfc58d876: How goes the hunt?

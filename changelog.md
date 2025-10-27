@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.0
+- Fixed pixel icon not showing on menu
+- Added more lines / interactions in `strings00_mod.str`
+- Changeed to a `char_full.png` type file
+- Added `mod.json` file
+- Added `char_black.json` file
+
 ## v0.2.0
 - Replaced `char_black` (Roffy) with Van Helsing
 - Added custom `journal_stickers.png`

@@ -14,6 +14,7 @@ If using playlunky, install with the code `hd-van-helsing`
 ## Todo
 - [ ] Add poisoned state
 - [ ] Improve pixel sprite
+- [ ] Upscale sprite for portrait image?
 - [x] Fix last phrase on journal
 - [x] Add banner image
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.3.2
+- Added last phrase on journal
+- Added banner image
+
 ## v0.3.1
 - Fixed heart not being correct color
 

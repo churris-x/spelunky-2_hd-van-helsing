@@ -15,8 +15,6 @@ If using playlunky, install with the code `hd-van-helsing`
 - [ ] Add poisoned state
 - [ ] Improve pixel sprite
 - [ ] Upscale sprite for portrait image?
-- [x] Fix last phrase on journal
-- [x] Add banner image
 
 ## License & Acknowledgements
 Many thanks for the folks at [Spelunky.fyi] for hosting and creating the 
